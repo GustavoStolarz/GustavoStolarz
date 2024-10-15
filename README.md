@@ -1,5 +1,5 @@
 
-### Hello World!_ Eu sou Gustavo Stolarz 💾
+### Hello World!_ Eu sou Gustavo Stolarz 🌌
 ### Sou apaixonado por tecnologia e estou sempre explorando novas áreas da informática. Atualmente, meu foco é o estudo de redes, adquirindo conhecimento em configuração, segurança e infraestrutura. Tenho também experiência sólida com hardware, desde montagem de máquinas até diagnóstico e solução de problemas.
 
 ### Atualmente, estou aprendendo Python, além de ampliar meus conhecimentos em programação e desenvolvimento. Estou sempre em busca de novos desafios e oportunidades para crescer como profissional de TI.
